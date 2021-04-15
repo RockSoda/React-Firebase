@@ -1,10 +1,10 @@
-## Demo Login Page
+## Login Page
 ![LoginDemo](loginDemo.gif)
 
-## Demo Products Page
+## Products Page
 ![tableDemo](tableDemo.gif)
 
-## Demo Backend
+## Backend
 ![backendDemo](backendDemo.gif)
 
 
